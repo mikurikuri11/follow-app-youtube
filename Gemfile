@@ -64,6 +64,8 @@ group :development do
   # gem "spring"
 
   gem 'byebug'
+
+  gem 'devise'
 end
 
 group :test do
